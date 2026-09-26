@@ -1,101 +1,13 @@
 #EXTM3U
-# Generated: 2026-09-26T15:56:01.632499
+# Generated: 2026-09-26T20:44:29.365741
 
-# ----- ☘️海南频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️海南频道",海南新闻
-http://ls.qingting.fm/live/1861.m3u8
-
-# ----- ☘️山西频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️山西频道",太谷新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️浙江频道 (14个频道) -----
-#EXTINF:-1 group-title="☘️浙江频道",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",嘉兴新闻综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",绍兴公共
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",上虞新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",余杭综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",余杭未来E
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",苍南新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",永嘉新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",海宁新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",云和新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",缙云新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",缙云综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",浙江 Ⅰ 绍兴影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8 # http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="☘️浙江频道",浙江遂昌
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️河北频道 (10个频道) -----
-#EXTINF:-1 group-title="☘️河北频道",河北经济
-http://1.94.31.214/php/hebei.php?id=jjsh # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北都市
-http://1.94.31.214/php/hebei.php?id=hbds # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北影视
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北少儿
-http://1.94.31.214/php/hebei.php?id=sekj # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北公共
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北农民
-https://ls.qingting.fm/live/1650/64k.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 group-title="☘️河北频道",邯郸科技教育
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",邢台综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️河北频道",衡水公共
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://ls.qingting.fm/live/2810.m3u8
-#EXTINF:-1 group-title="☘️河北频道",河北
-https://event.pull.hebtv.com:443/live/live101.m3u8
-
-# ----- ☘️四川频道 (7个频道) -----
-#EXTINF:-1 group-title="☘️四川频道",广元综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️四川频道",朝天综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️四川频道",青川综合
-http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-#EXTINF:-1 group-title="☘️四川频道",剑阁综合
-https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️四川频道",井研综合
-http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️四川频道",名山综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️四川频道",乐至综合
-http://175.155.106.72:89/live1/live1.m3u8?zsicd
-
-# ----- ☘️广东频道 (3个频道) -----
-#EXTINF:-1 group-title="☘️广东频道",广州综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
-#EXTINF:-1 group-title="☘️广东频道",广州竞赛
-http://8.138.7.223/tv/gzjs.m3u8
-#EXTINF:-1 group-title="☘️广东频道",南国都市
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️甘肃频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市
-https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-
-# ----- 📡卫视频道 (65个频道) -----
+# ----- 📡卫视频道 (66个频道) -----
 #EXTINF:-1 group-title="📡卫视频道",河北卫视
 http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 group-title="📡卫视频道",辽宁卫视
-http://175.155.106.72:89/live1/live1.m3u8?zsicd # http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0 # https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",吉林卫视
-https://stream.hrbtv.net/yspd/playlist.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",湖北卫视
 http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 group-title="📡卫视频道",湖南卫视
@@ -115,7 +27,7 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8 # https://d7x8z4yuq42qn.cloudfront.ne
 #EXTINF:-1 group-title="📡卫视频道",ABN China
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8 # https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Baicheng TV [Geo-blocked]
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",CNA
@@ -133,9 +45,9 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8 # https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Harbin Comprehensive News Channel
-https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 group-title="📡卫视频道",Harbin Movie Channel
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://stream.hrbtv.net/yspd/playlist.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="📡卫视频道",HomePlus
@@ -175,13 +87,15 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Xinjiang TV 2
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Xinjiang TV 3
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://110.153.180.106:55555/out_2/index.m3u8 # http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+http://110.153.180.106:55555/out_2/index.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",Zhejiang TV International
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",人与自然
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",伊犁经济法制
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://110.153.180.106:55555/out_4/index.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="📡卫视频道",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 #EXTINF:-1 group-title="📡卫视频道",哈尔滨都市咨询
 http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="📡卫视频道",大立电视台
@@ -193,7 +107,7 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 #EXTINF:-1 group-title="📡卫视频道",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 group-title="📡卫视频道",江津新闻
-http://222.179.155.21:1935/ch1.m3u8?zzhongqd # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="📡卫视频道",江津经济生活
 http://222.179.155.21:1935/ch0.m3u8 # http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 group-title="📡卫视频道",熊猫直
@@ -221,33 +135,99 @@ http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",黄果树六角亭瀑布
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-# ----- ☘️安徽频道 (5个频道) -----
-#EXTINF:-1 group-title="☘️安徽频道",固镇新闻
-https://stream.hrbtv.net/yspd/playlist.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 group-title="☘️安徽频道",黄山新闻综合
+# ----- ☘️海南频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️海南频道",海南新闻
+http://ls.qingting.fm/live/1861.m3u8
+
+# ----- ☘️山西频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️山西频道",太谷新闻综合
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️安徽频道",祁门综合
-http://zbbf2.ahbztv.com/live/416.m3u8?zanhd # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️安徽频道",六安公共
+
+# ----- ☘️黑龙江频道 (10个频道) -----
+#EXTINF:-1 group-title="☘️黑龙江频道",黑龙江新闻
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",黑龙江少儿
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/4972/64k.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨资讯
+http://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨都市资讯
+http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild # https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",甘南县综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",七台河新闻综合
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️安徽频道",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-# ----- ☘️陕西频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️陕西频道",陕西公共
-http://ls.qingting.fm/live/1222.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+# ----- ☘️山东频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️山东频道",山东教育
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-# ----- ☘️江苏频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️江苏频道",靖江新闻综合
-http://ls.qingting.fm/live/23797.m3u8
+# ----- ☘️四川频道 (7个频道) -----
+#EXTINF:-1 group-title="☘️四川频道",广元综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️四川频道",朝天综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️四川频道",青川综合
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1 group-title="☘️四川频道",剑阁综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️四川频道",井研综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️四川频道",名山综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️四川频道",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
 
-# ----- ☘️广西频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️广西频道",灌阳新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/5043/64k.m3u8
+# ----- ☘️北京频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️北京频道",北京新闻
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
-# ----- ☘️湖北频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️湖北频道",江夏新闻综合
-http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+# ----- ☘️吉林频道 (4个频道) -----
+#EXTINF:-1 group-title="☘️吉林频道",九台综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️吉林频道",农安新闻综合 [Geo-blocked]
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️吉林频道",靖宇综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️吉林频道",白城新闻综合 [Geo-blocked]
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+# ----- ☘️湖南频道 (2个频道) -----
+#EXTINF:-1 group-title="☘️湖南频道",长沙新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️湖南频道",衡阳新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+
+# ----- ☘️重庆频道 (2个频道) -----
+#EXTINF:-1 group-title="☘️重庆频道",铜梁综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️重庆频道",荣昌综合 [Not 24/7]
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+# ----- 🌊港·澳·台 (6个频道) -----
+#EXTINF:-1 group-title="🌊港·澳·台",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台",TVB Plus
+http://r.jdshipin.com/Nr5jq # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="🌊港·澳·台",翡翠台
+http://r.jdshipin.com/GeWKr
+
+# ----- ☘️新疆频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️新疆频道",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
 
 # ----- ☘️福建频道 (3个频道) -----
 #EXTINF:-1 group-title="☘️福建频道",三明新闻综合
@@ -257,11 +237,75 @@ http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="☘️福建频道",云霄综合
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://live.zzyxxw.com:2443/live/xwzh.m3u8
 
-# ----- ☘️重庆频道 (2个频道) -----
-#EXTINF:-1 group-title="☘️重庆频道",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️重庆频道",荣昌综合 [Not 24/7]
+# ----- ☘️广东频道 (3个频道) -----
+#EXTINF:-1 group-title="☘️广东频道",广州综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 group-title="☘️广东频道",广州竞赛
+http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1 group-title="☘️广东频道",南国都市
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+# ----- ☘️浙江频道 (15个频道) -----
+#EXTINF:-1 group-title="☘️浙江频道",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",浙江公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",绍兴公共
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",上虞新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",余杭综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",余杭未来E
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",苍南新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",永嘉新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",海宁新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",云和新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",缙云新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",缙云综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",浙江 Ⅰ 绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8 # http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",浙江经济
+http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 group-title="☘️浙江频道",浙江遂昌
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+# ----- ☘️江苏频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️江苏频道",靖江新闻综合
+http://ls.qingting.fm/live/23797.m3u8
+
+# ----- ☘️河北频道 (10个频道) -----
+#EXTINF:-1 group-title="☘️河北频道",河北经济
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北都市
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北影视
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北少儿
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北公共
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北农民
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="☘️河北频道",邯郸科技教育
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",邢台综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️河北频道",衡水公共
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://ls.qingting.fm/live/2810.m3u8
+#EXTINF:-1 group-title="☘️河北频道",河北
+https://event.pull.hebtv.com:443/live/live101.m3u8 # https://event.pull.hebtv.com:443/live/live101.m3u8
+
+# ----- ☘️甘肃频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 
 # ----- 📺央视频道 (23个频道) -----
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
@@ -311,70 +355,30 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 group-title="📺央视频道",CGTN阿语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
-# ----- ☘️北京频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️北京频道",北京新闻
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-
-# ----- 🌊港·澳·台 (6个频道) -----
-#EXTINF:-1 group-title="🌊港·澳·台",三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="🌊港·澳·台",TVBS新闻台
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="🌊港·澳·台",八大戏剧台
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="🌊港·澳·台",纬来精采
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="🌊港·澳·台",TVB Plus
-http://r.jdshipin.com/Nr5jq # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="🌊港·澳·台",翡翠台
-http://r.jdshipin.com/GeWKr
-
-# ----- ☘️山东频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️山东频道",山东教育
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️吉林频道 (4个频道) -----
-#EXTINF:-1 group-title="☘️吉林频道",九台综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️吉林频道",农安新闻综合 [Geo-blocked]
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️吉林频道",靖宇综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️吉林频道",白城新闻综合 [Geo-blocked]
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️湖南频道 (2个频道) -----
-#EXTINF:-1 group-title="☘️湖南频道",长沙新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="☘️湖南频道",衡阳新闻综合
-https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
-
-# ----- ☘️黑龙江频道 (10个频道) -----
-#EXTINF:-1 group-title="☘️黑龙江频道",黑龙江新闻
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/4974/64k.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",黑龙江少儿
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/4972/64k.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨资讯
-http://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨都市资讯
-http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild # https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",甘南县综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",七台河新闻综合
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ----- ☘️新疆频道 (1个频道) -----
-#EXTINF:-1 group-title="☘️新疆频道",伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8
+# ----- ☘️陕西频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️陕西频道",陕西公共
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 # ----- ☘️青海频道 (1个频道) -----
 #EXTINF:-1 group-title="☘️青海频道",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+# ----- ☘️广西频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️广西频道",灌阳新闻综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # https://ls.qingting.fm/live/5043/64k.m3u8
+
+# ----- ☘️湖北频道 (1个频道) -----
+#EXTINF:-1 group-title="☘️湖北频道",江夏新闻综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+
+# ----- ☘️安徽频道 (5个频道) -----
+#EXTINF:-1 group-title="☘️安徽频道",固镇新闻
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 # http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="☘️安徽频道",黄山新闻综合
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️安徽频道",祁门综合
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️安徽频道",六安公共
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="☘️安徽频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8 # https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
